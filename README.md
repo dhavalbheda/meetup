@@ -1,11 +1,11 @@
-# `DevHub`
+# `Meet UP`
 ![](https://img.shields.io/badge/Node.js-v12.17.0-green)
 ![](https://img.shields.io/badge/express-v4.17.1-red)
 ![](https://img.shields.io/badge/React-v16.13.1-blue)
 ![](https://img.shields.io/badge/socket.io-v2.3.0-brightgreen)
 
 
-[**Click Here To Visit**](https://dhavalbheda.github.io/meetup/) - [**https://dhavalbheda.github.io/devHub/**](https://dhavalbheda.github.io/meetup/)
+[**Click Here To Visit**](https://dhavalbheda.github.io/meetup/) - [**https://dhavalbheda.github.io/meetup/**](https://dhavalbheda.github.io/meetup/)
 
 MeetUp Chat Room  Is A Live Room Chatting Web Application. Where People Can Create The Private Temporary Room And Can Chat WithOthers.
 
